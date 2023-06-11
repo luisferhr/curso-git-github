@@ -1,2 +1,2 @@
 # curso-git-github
-curso realizado con freeCodeCamp
+Curso realizado con freeCodeCamp
