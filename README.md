@@ -1,2 +1,2 @@
-# Practicando git-github con freeCodeCamp
+# Practicando git-github con freeCodeCamp - Mi primer readme
 Curso realizado con freeCodeCamp
